@@ -1,0 +1,7 @@
+E:\LTDT\Buoi2\Buoi2\Buoi2\obj\Debug\Buoi2.csproj.AssemblyReference.cache
+E:\LTDT\Buoi2\Buoi2\Buoi2\obj\Debug\Buoi2.csproj.CoreCompileInputs.cache
+E:\LTDT\Buoi2\Buoi2\Buoi2\bin\Debug\Buoi2.exe.config
+E:\LTDT\Buoi2\Buoi2\Buoi2\bin\Debug\Buoi2.exe
+E:\LTDT\Buoi2\Buoi2\Buoi2\bin\Debug\Buoi2.pdb
+E:\LTDT\Buoi2\Buoi2\Buoi2\obj\Debug\Buoi2.exe
+E:\LTDT\Buoi2\Buoi2\Buoi2\obj\Debug\Buoi2.pdb

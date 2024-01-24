@@ -1,0 +1,15 @@
+D:\TrungTruc\Buoi02\Buoi02\bin\Debug\Buoi02.exe.config
+D:\TrungTruc\Buoi02\Buoi02\bin\Debug\Buoi02.exe
+D:\TrungTruc\Buoi02\Buoi02\bin\Debug\Buoi02.pdb
+D:\TrungTruc\Buoi02\Buoi02\obj\Debug\Buoi02.csproj.AssemblyReference.cache
+D:\TrungTruc\Buoi02\Buoi02\obj\Debug\Buoi02.csproj.SuggestedBindingRedirects.cache
+D:\TrungTruc\Buoi02\Buoi02\obj\Debug\Buoi02.csproj.CoreCompileInputs.cache
+D:\TrungTruc\Buoi02\Buoi02\obj\Debug\Buoi02.exe
+D:\TrungTruc\Buoi02\Buoi02\obj\Debug\Buoi02.pdb
+E:\LTDT\Buoi3\TrungTruc\Buoi02\Buoi02\bin\Debug\Buoi02.exe.config
+E:\LTDT\Buoi3\TrungTruc\Buoi02\Buoi02\bin\Debug\Buoi02.exe
+E:\LTDT\Buoi3\TrungTruc\Buoi02\Buoi02\bin\Debug\Buoi02.pdb
+E:\LTDT\Buoi3\TrungTruc\Buoi02\Buoi02\obj\Debug\Buoi02.csproj.AssemblyReference.cache
+E:\LTDT\Buoi3\TrungTruc\Buoi02\Buoi02\obj\Debug\Buoi02.csproj.CoreCompileInputs.cache
+E:\LTDT\Buoi3\TrungTruc\Buoi02\Buoi02\obj\Debug\Buoi02.exe
+E:\LTDT\Buoi3\TrungTruc\Buoi02\Buoi02\obj\Debug\Buoi02.pdb

@@ -1,0 +1,7 @@
+E:\LTDT\Buoi4\Buoi4\Buoi4\bin\Debug\Buoi4.exe.config
+E:\LTDT\Buoi4\Buoi4\Buoi4\bin\Debug\Buoi4.exe
+E:\LTDT\Buoi4\Buoi4\Buoi4\bin\Debug\Buoi4.pdb
+E:\LTDT\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.csproj.AssemblyReference.cache
+E:\LTDT\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.csproj.CoreCompileInputs.cache
+E:\LTDT\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.exe
+E:\LTDT\Buoi4\Buoi4\Buoi4\obj\Debug\Buoi4.pdb
